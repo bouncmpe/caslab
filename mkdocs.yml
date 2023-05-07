@@ -87,8 +87,6 @@ nav:
       - Masters Theses:
         - theses/bilgili.md
         - theses/ulus.md
-  - Projects:
-      - projects/index.md
   - Courses:
       - courses/index.md
   - Tools:
