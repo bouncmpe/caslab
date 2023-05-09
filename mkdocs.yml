@@ -1,4 +1,4 @@
-site_name: CASLAB
+site_name: "CASLAB | Boğaziçi University"
 site_url: https://caslab.cmpe.boun.edu.tr/
 site_description: "Computer Architecture and Systems Laboratory at Boğaziçi University"
 site_author: bouncmpe
@@ -65,6 +65,9 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.highlight:
       anchor_linenums: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 
 extra:
   social:
@@ -80,7 +83,9 @@ nav:
   - Home:
       - index.md
   - People:
-      - people/index.md
+      - people/faculty.md
+      - people/phd-students.md
+      - people/ms-students.md
   - Theses:
       - theses/index.md
       - Doctoral Theses: []
