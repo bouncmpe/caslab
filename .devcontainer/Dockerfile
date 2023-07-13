@@ -1,13 +1,28 @@
-FROM squidfunk/mkdocs-material
+FROM sphinxdoc/sphinx:latest
 
-ARG USER=bouncmpe
-ENV HOME /home/$USER
+RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
+    && apt-get -y install \
+      sudo \
+      git \
+      gnupg2 \
+    && apt-get autoremove -y && apt-get clean -y && rm -rf /var/lib/apt/lists/* 
 
-RUN apk add --update sudo
+RUN groupadd bouncmpe -g 1000 \
+    && useradd -ms /bin/bash bouncmpe -g 1000 -u 1000 \
+    && printf "bouncmpe:bouncmpe" | chpasswd \
+    && printf "bouncmpe ALL= NOPASSWD: ALL\\n" >> /etc/sudoers
 
-RUN adduser -D $USER \
-    && echo "$USER ALL=(ALL) NOPASSWD: ALL" > /etc/sudoers.d/$USER \
-    && chmod 0440 /etc/sudoers.d/$USER
+USER bouncmpe
+WORKDIR /home/bouncmpe
 
-USER $USER
-WORKDIR $HOME
+RUN python3 -m pip install --upgrade pip
+RUN python3 -m pip install \
+      furo \
+      myst-parser \
+      sphinx-design \
+      sphinxext-opengraph \
+      sphinx-inline-tabs \
+      sphinx-autobuild \
+      sphinx-copybutton \
+      sphinxcontrib-mermaid \
+      esbonio
