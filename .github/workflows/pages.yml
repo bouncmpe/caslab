@@ -23,8 +23,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Install Python dependencies
-        run: |
-          pip install furo myst-parser sphinx_copybutton sphinx_design sphinx_inline_tabs
+        run: pip install -r requirements.txt
       - name: Build Sphinx
         run: make dirhtml
       - name: Upload artifact
