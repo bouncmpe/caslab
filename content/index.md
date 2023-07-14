@@ -5,7 +5,7 @@
 
 faculty
 phd-students
-msc-students
+ms-students
 courses/index
 
 ```
