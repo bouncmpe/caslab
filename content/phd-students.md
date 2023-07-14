@@ -35,6 +35,12 @@ under the supervision of [Arda Yurdakul](https://caslab.cmpe.boun.edu.tr/faculty
 
 :::{grid-item}
 :columns: 12 6 6 6
+### Orkun Sağlamdemir
+- Supervised by [Alper Şen](https://caslab.cmpe.boun.edu.tr/faculty/#alper-sen)
+:::
+
+:::{grid-item}
+:columns: 12 6 6 6
 ### Etem Deniz
 - Supervised by [Alper Şen](https://caslab.cmpe.boun.edu.tr/faculty/#alper-sen)
 :::
