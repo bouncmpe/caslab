@@ -1,22 +1,14 @@
 # PhD Students
 
 
-## Emre Bilgili
+## Kazım Rıfat Özyılmaz
 under the supervision of [Arda Yurdakul](https://caslab.cmpe.boun.edu.tr/faculty/#arda-yurdakul)
 
-::::{grid} 2
-:::{grid-item}
-:columns: 12 8 8 8
-- MS, Boğaziçi University
-- BS, Boğaziçi University
-:::
+## Barış Gökçe
+under the supervision of [Arda Yurdakul](https://caslab.cmpe.boun.edu.tr/faculty/#arda-yurdakul)
 
-:::{grid-item}
-:columns: 12 4 4 4
-- [{fas}`globe` Website](https://www.cmpe.boun.edu.tr/~yurdakul/)
-:::
-
-::::
+## Emre Bilgili
+under the supervision of [Arda Yurdakul](https://caslab.cmpe.boun.edu.tr/faculty/#arda-yurdakul)
 
 ## Alumni
 
