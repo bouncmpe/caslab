@@ -37,12 +37,6 @@ under the supervision of [Arda Yurdakul](https://caslab.cmpe.boun.edu.tr/faculty
 
 :::{grid-item}
 :columns: 12 6 6 6
-### Hasan Ferit Eniser
-- Supervised by [Alper Şen](https://caslab.cmpe.boun.edu.tr/faculty/#alper-sen)
-:::
-
-:::{grid-item}
-:columns: 12 6 6 6
 ### Salih Bayar
 - Supervised by [Arda Yurdakul](https://caslab.cmpe.boun.edu.tr/faculty/#arda-yurdakul)
 :::
@@ -58,6 +52,5 @@ under the supervision of [Arda Yurdakul](https://caslab.cmpe.boun.edu.tr/faculty
 ### Serkan Kırbaş
 - Supervised by [Alper Şen](https://caslab.cmpe.boun.edu.tr/faculty/#alper-sen)
 :::
-
 
 ::::
