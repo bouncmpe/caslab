@@ -10,7 +10,7 @@ under the supervision of [Arda Yurdakul](https://caslab.cmpe.boun.edu.tr/faculty
 ## Emre Bilgili
 under the supervision of [Arda Yurdakul](https://caslab.cmpe.boun.edu.tr/faculty/#arda-yurdakul)
 
-## Alumni
+## {fas}`graduation-cap` Alumni
 
 ::::{grid} 2
 

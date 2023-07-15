@@ -43,7 +43,7 @@ under the supervision of [Arda Yurdakul](https://caslab.cmpe.boun.edu.tr/faculty
 under the supervision of [Arda Yurdakul](https://caslab.cmpe.boun.edu.tr/faculty/#arda-yurdakul)
 
 
-## Alumni
+## {fas}`graduation-cap` Alumni
 
 ::::{grid} 2
 
