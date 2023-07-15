@@ -28,6 +28,8 @@ myst_heading_anchors = 3
 myst_enable_extensions = [
     "colon_fence",
     "deflist",
+    "attrs_block",
+    "attrs_inline",
 ]
 
 # -- Options for HTML output -------------------------------------------------
