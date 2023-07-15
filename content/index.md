@@ -28,7 +28,6 @@ courses
 :columns: 12 6 3 3
 :::
 :::{grid-item-card} Parallel Systems
-
 :columns: 12 6 3 3
 :::
 :::{grid-item-card} Real-Time Systems
