@@ -89,5 +89,5 @@ html_theme_options = {
     ],
     "source_repository": "https://github.com/bouncmpe/caslab/",
     "source_branch": "main",
-    "source_directory": ".",
+    "source_directory": "content",
 }
