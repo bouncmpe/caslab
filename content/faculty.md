@@ -8,6 +8,7 @@ hide-toc: true
 :gutter: 3
 
 ::::{grid-item-card}
+{#alper-sen}
 ## Alper Şen
 Full Professor
 ^^^
@@ -18,7 +19,7 @@ Software Testing and Verification, Machine Learning for Software Engineering, Pa
 ::::
 
 ::::{grid-item-card}
-
+{#arda-yurdakul}
 ## Arda Yurdakul
 Full Professor
 ^^^
@@ -29,7 +30,7 @@ Embedded Systems, Reconfigurable Computing / Dataflow Computing (FPGA), Design A
 ::::
 
 ::::{grid-item-card}
-
+{#can-ozturan}
 ## Can Özturan
 Full Professor
 ^^^
@@ -41,7 +42,7 @@ Parallel Processing, Computational Science, Graph Algorithms, Grid Computing, Bl
 
 
 ::::{grid-item-card}
-
+{#dogan-ulus}
 ## Doğan Ulus
 Assistant Professor
 ^^^
