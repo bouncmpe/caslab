@@ -10,6 +10,8 @@ courses
 
 ```
 
+Since the first invention of computers, **Computer Architecture** has always been the founding direction of computer research. While innovative computer systems open windows to new applications, they are also shaped by the demands for improving them. For example, at the beginning of the millennium, GPUs were presented for real-time experience in video games. Machine learning researchers so admired this architecture that they started to use it to propose better learning paradigms. In the search for expanding its applicability, computer architecture is now combining various computing paradigms for heterogeneous, domain-specific, and unconventional  computers. To facilitate this great evolution, existing paradigms such as dataflow machines, embedded systems, field programmability, memory, interconnects, microcoding and instruction set architectures are revisited to propose unprecedented solutions. So, computer architecture research is an exciting journey to the future while keeping its roots in the past.
+
 ## Research Areas
 
 ::::{grid} 4
