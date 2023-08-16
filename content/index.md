@@ -45,7 +45,7 @@ courses
 
 ## Join CASLAB
 
-We always seek motivated undergraduate, MS, and Ph.D. students to work on various projects.
+We always welcome motivated undergraduate, MS, and Ph.D. students to work on various projects.
 
 ```{button-link} faculty
 :color: primary
