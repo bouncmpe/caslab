@@ -1,8 +1,5 @@
 # MS Students
 
-## Ali Mehran
-under the supervision of [Doğan Ulus](https://caslab.cmpe.boun.edu.tr/faculty/#dogan-ulus)
-
 ## Anıl Doyran
 under the supervision of [Arda Yurdakul](https://caslab.cmpe.boun.edu.tr/faculty/#arda-yurdakul)
 
@@ -14,12 +11,6 @@ under the supervision of [Arda Yurdakul](https://caslab.cmpe.boun.edu.tr/faculty
 
 ## Canberk Akçalı
 under the supervision of [Arda Yurdakul](https://caslab.cmpe.boun.edu.tr/faculty/#arda-yurdakul)
-
-## Doruk Tıktıklar
-under the supervision of [Doğan Ulus](https://caslab.cmpe.boun.edu.tr/faculty/#dogan-ulus)
-
-## Deniz Baran Aksoy
-under the supervision of [Doğan Ulus](https://caslab.cmpe.boun.edu.tr/faculty/#dogan-ulus)
 
 ## Emre Yiğit
 under the supervision of [Arda Yurdakul](https://caslab.cmpe.boun.edu.tr/faculty/#arda-yurdakul)
