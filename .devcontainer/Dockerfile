@@ -26,3 +26,5 @@ RUN python3 -m pip install \
       sphinx-copybutton \
       sphinxcontrib-mermaid \
       esbonio
+
+ENV LC_ALL=C.UTF-8

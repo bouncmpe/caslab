@@ -47,10 +47,6 @@ Parallel machine and performance models: PRAM, speedup, work efficiency, scalabi
 ### CMPE 483: Sp.Tp. Blockchain Programming
 Overview of Cryptography. Peer-to-Peer Systems. Blockchain Platforms and Cryptocurrencies. Byzantine Generals  and Double Spending  Problems. Mining. Wallets. Smart Contract Programming on Ethereum Platform. Developing Decentralized Applications (Dapps). 
 
-{#cmpe486}
-### CMPE 486: Sp.Tp. Simulation Based Testing of Autonomous Systems
-System safety and regulations. Simulation based testing and scenarios. Requirement based testing. Advanced topics.
-
 {#cmpe490}
 ### CMPE 490: Sp.Tp. Internet of Things
 Overview of IoT. IoT-related technologies:  embedded systems, sensors and actuators, wireless connectivity, communication protocols, cloud computing, big data analytics, autonomic computing. Design principles: Standardization and interoperability, privacy, security, user experience. Domain Specific Examples. 
@@ -105,10 +101,6 @@ Relation of cyberphysical systems with embedded systems. Smart things. Internet 
 {#cmpe59d}
 ### CMPE 59D: Sp.Tp. Design Automation For Embedded Systems
 Properties of Embedded Systems. Design Representation. Design Entry. Design Analysis. Synthesis: Allocation-Binding-Mapping-Partitioning-Placement- Routing-Scheduling. Simulation. Project.
-
-{#cmpe59f}
-### CMPE 59F: Sp.Tp. Safety Validation of Autonomous Systems
-System Safety and V&V Fundamentals. Runtime Verification of Real-time Systems. Simulation and Scenario-based Testing of Autonomous Systems. Constrained Random Verification and Functional Coverage. Complementary and Advanced Methods.
 
 {#cmpe59l}
 ### CMPE 59L: Sp.Tp. Real Time Embedded Systems

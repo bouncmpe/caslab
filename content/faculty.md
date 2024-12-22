@@ -40,18 +40,6 @@ Parallel Processing, Computational Science, Graph Algorithms, Grid Computing, Bl
 [{fas}`globe;fa-xl` Website](https://academics.boun.edu.tr/ozturaca/)
 ::::
 
-
-::::{grid-item-card}
-{#dogan-ulus}
-## Doğan Ulus
-Assistant Professor
-^^^
-Simulation-based Testing, Runtime Verification, Autonomous Systems, Cyber-Physical Systems, Formal Methods, Automata Theory 
-+++
-[{fas}`envelope;fa-xl` Email](mailto:dogan.ulus@boun.edu.tr) 
-[{fas}`globe;fa-xl` Website](https://academics.boun.edu.tr/dogan.ulus/) 
-[{fab}`github;fa-xl` Github](https://github.com/doganulus)
-
 ::::
 
 
